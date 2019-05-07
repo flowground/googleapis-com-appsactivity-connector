@@ -1,0 +1,33 @@
+{
+    "type": "object",
+    "properties": {
+        "groupingStrategy": {
+            "type": "string",
+            "enum": [
+                "driveUi",
+                "none"
+            ],
+            "default": "driveUi"
+        },
+        "pageSize": {
+            "type": "integer",
+            "default": 50
+        },
+        "pageToken": {
+            "type": "string"
+        },
+        "source": {
+            "type": "string"
+        },
+        "userId": {
+            "type": "string",
+            "default": "me"
+        },
+        "drive_ancestorId": {
+            "type": "string"
+        },
+        "drive_fileId": {
+            "type": "string"
+        }
+    }
+}
