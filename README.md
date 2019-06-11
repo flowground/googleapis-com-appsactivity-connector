@@ -5,7 +5,7 @@
 A generated **flow**ground connector for the Drive Activity API (version v1).
 
 Generated from: https://api.apis.guru/v2/specs/googleapis.com/appsactivity/v1/swagger.json<br/>
-Generated at: 2019-05-23T12:12:59+03:00
+Generated at: 2019-06-11T18:14:34+03:00
 
 ## API Description
 
